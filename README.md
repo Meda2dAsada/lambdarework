@@ -5,12 +5,12 @@
 ---
 
 ## 📸 Original Theme: LambdaGeneration
-![LambdaGeneration](images/lambdageneration.png)
+![LambdaGeneration](images/lambda_generation.png)
 
 ---
 
 ## 🎨 Customized Theme: LambdaRework
-![LambdaRework](images/lambdarework.png)
+![LambdaRework](images/lambda_rework.png)
 
 ---
 
