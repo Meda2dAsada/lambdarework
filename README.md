@@ -1,14 +1,44 @@
-# My oh-my-posh-theme (windows later)
-## lambdarework is a child of the [lambdageneration](https://github.com/JanDeDobbeleer/oh-my-posh/blob/main/themes/lambdageneration.omp.json) theme.
-![lambdageneration](images/lambdageneration.png)
+# LambdaRework Theme
 
-## lambdarework: 
-![lambdarework](images/lambdarework.png)
+**LambdaRework** is a refined adaptation of the original [LambdaGeneration](https://github.com/JanDeDobbeleer/oh-my-posh/blob/main/themes/lambdageneration.omp.json) theme for **Oh My Posh**, featuring enhanced aesthetics and additional information elements.
 
-## Includes a python venv version at the right of the promt:
-![lambdareworpy](images/lambdareworkpython.png)
+---
 
-# If don't have oh my posh:
-## download [oh-my-posh](https://ohmyposh.dev/)
-# You also need a nerd font:
-## download [font](https://www.nerdfonts.com/)
+## 📸 Original Theme: LambdaGeneration
+![LambdaGeneration](images/lambdageneration.png)
+
+---
+
+## 🎨 Customized Theme: LambdaRework
+![LambdaRework](images/lambdarework.png)
+
+---
+
+## 🐍 Python Virtual Environment Integration
+LambdaRework includes a dynamic indicator on the right side of the prompt that displays the **current Python virtual environment (venv) version**.
+
+![LambdaRework Python](images/lambdarework_python.png)
+
+---
+
+## ⚙️ Installation Guide
+
+If you don’t have **Oh My Posh** installed yet:
+
+1. Download **Oh My Posh** from the official website:  
+   👉 [https://ohmyposh.dev/](https://ohmyposh.dev/)
+
+2. Install a **Nerd Font**, required for the icons and symbols to display correctly:  
+   👉 [https://www.nerdfonts.com/](https://www.nerdfonts.com/)
+
+---
+
+## 💡 Notes
+
+- Place the `lambdarework.omp.json` file inside your Oh My Posh themes directory.
+- Update your PowerShell or terminal configuration file to use the new theme.
+- Compatible with Windows, macOS, and Linux terminals.
+
+---
+
+**Based on:** Jan De Dobbeleer’s *LambdaGeneration*  
